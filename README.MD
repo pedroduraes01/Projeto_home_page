@@ -1,5 +1,5 @@
 
-# Revisão do Projeto 02
+# Projeto Home Page
 
 É um projeto de uma página web simples do curso da rocktseat, com o intuito de treinar
  o HTML e o CSS.
