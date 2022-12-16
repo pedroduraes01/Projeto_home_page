@@ -70,6 +70,8 @@ main p+p {
   display: flex;
   justify-content: center;
   gap: 42px;
+
+  margin-bottom: 40px;
 }
 
 footer a {
@@ -80,4 +82,11 @@ footer a {
   color: #3F3D56;
 
   text-decoration: none;
+}
+
+.test {
+  width: 100%;
+
+  position: absolute;
+  bottom: 0;
 }
