@@ -13,4 +13,4 @@
 
 - Edição de fontes, posição dos elementos.
 
-- utilização de imagem em svg, para fazer o footer.
+- utilização de imagem em svg para fazer o footer.
